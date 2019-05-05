@@ -1,0 +1,42 @@
+---
+title: 3 kroki do przejęcia kontroli nad pocztą elektroniczną
+tags:
+  - e-mail
+  - gmail
+  - nawyk
+  - poczta
+url: 96.html
+id: 96
+categories:
+  - Produktywność
+date: 2014-09-05 22:15:33
+---
+
+Czy jesteś zadowolony ze sposobu w jaki obsługujesz codziennie pocztę elektroniczną? Gdybyś zapytał mnie o to miesiąc temu, odpowiedziałbym: "Nie". Dziś sprawa wygląda już zupełnie inaczej, a stało się tak dzięki zastosowaniu 3 prostych kroków w zarządzaniu pocztą elektroniczną. Zainteresowany? Zapraszam do lektury. Jeszcze 4 tygodnie temu w mojej skrzynce odbiorczej miałem około 2700 różnego rodzaju wiadomości, z czego blisko 200 nadal było oznaczonych jako nieprzeczytane. Chyba nie muszę mówić, że oglądając je każdego dnia robiło mi się zwyczajnie słabo. Do czasu. Pewnego dnia postanowiłem się z tym skutecznie uporać - motywacją do tego była lektura świetnej książki pióra [Maury Nevel Thomas](http://www.regainyourtime.com/) ["Sekrety osobistej efektywności"](http://onepress.pl/ksiazki/sekrety-osobistej-efektywnosci-osiagaj-niemozliwe-i-skutecznie-zarzadzaj-swoim-zyciem-maura-nevel-thomas,genefe.htm) (gorąco zachęcam do sięgnięcia po nią!). W rozdziale 11-tym Maura opisała bardzo prosty i pragmatyczny sposób, w jaki powinniśmy obchodzić się z naszą e-mailową skrzynką odbiorczą. Sposób ten składa się z 3 prostych etapów, oto one:
+
+### 1\. Przegląd
+
+Na tym etapie jedynie pobieżnie "skanujemy" wiadomości znajdujące się skrzynce odbiorczej. Koncentrujemy się na tytułach, nie zaglądamy właściwie "do środka", a jeśli już to tylko w przypadku wiadomości, które wydają się nam pilne. Podczas przeglądu podejmujemy jedną z trzech możliwych akcji:
+
+*   **usuwamy** (najczęściej dotyczy to wszelkiego rodzaju powiadomień itd., rzeczy, które nie są ani pilne, ani ważne),
+*   **odkładamy** do przetworzenia (jest to późniejszy etap zarządzania wiadomościami),
+*   **reagujemy** (to działanie podejmujemy tylko względem pilnych i dość ważnych wiadomości, np. nadawca prosi o przełożenie terminu spotkania, które miało odbyć się za 2 godziny itd.).
+
+Tego typu przegląd najlepiej jest wykonywać na urządzeniu takim jak smartphone - będzie nam łatwiej pokonać pokusę reagowania na maile, które nie są ważne lub nie są pilne. W szczególności, że możemy robić to np. podczas spaceru do pracy czy podróży komunikacją miejską.
+
+### 2\. Przetwarzanie
+
+Gdy w naszej skrzynce odbiorczej zbierze się kilka wiadomości, które podczas przeglądu zakwalifikowaliśmy do przetworzenia, rezerwujemy sobie chwilę czasu na wykonanie tego zadania. Jest jedna ważna rzecz, o której musimy pamiętać - przetwarzanie nie odbywa się w reakcji na otrzymanego maila. Jest procedurą w pełni zaplanowaną i wykonywaną w wyznaczonym czasie. Wpisanie przetworzenia skrzynki odbiorczej na naszą listę rzeczy do zrobienia może skutecznie nas do tego zmotywować. Celem przetwarzania jest **opróżnienie skrzynki odbiorczej** ze wszystkich wiadomości, w stosunku do których nie podjęliśmy jeszcze żadnego działania. Na tym etapie możemy zrobić właściwie dwie rzeczy:
+
+*   **odpowiedzieć** na wiadomość, jeśli posiadamy wystarczającą ilość informacji oraz czynność ta zajmie nam mniej niż 2 minuty,
+*   **dodać jako zadanie** do naszej listy zadań, jeśli nie posiadamy wystarczających informacji lub czynność ta zajmie nam więcej niż wspomniane 2 minuty.
+
+W obu przypadkach warto oznaczyć wiadomość odpowiednią etykietą lub przenieść do odpowiedniego katalogu - oba sposoby pozwalają na grupowanie wiadomości względem określonych kontekstów (projekty, zapytania, zamówienia, rozmowy etc.). Jak często stosować przetwarzanie? Na to pytanie musisz odpowiedzieć sobie sam. Dużo zależy od tego jak bardzo Twoja praca i życie codzienne zależy od poczty elektronicznej. Spróbuj na początek ustalić sobie wystarczający do właściwego funkcjonowania limit - najważniejsze jest to, żeby oduczyć się złego nawyku ciągłego zerkania do skrzynki odbiorczej i reagowania na maile, które w niej się znajdą.
+
+### 3\. Podejmowanie działania
+
+Jeśli podczas przetwarzania natknęliśmy się na wiadomość (lub wiadomości), która wymagała od nas większego zaangażowania, utworzyliśmy dla niej oddzielne zadanie na liście. Tylko od nas zależy kiedy się nim zajmiemy. Najważniejsze jest jednak to, że nie zakłóciliśmy procesu przetwarzania - gdybyśmy od razu chcieli rozprawić się ze wszystkimi wiadomościami za jednym zamachem to albo zajęłoby nam to bardzo dużo czasu, albo nie skończylibyśmy tego procesu w ogóle, utknąwszy na jednym mailu. Kiedy podejdziemy do tego jak do zadania, możemy skorzystać np. z [techniki Pomodoro](http://zdyscyplinowany.pl/jak-poprawic-efektywnosc-z-technika-pomodoro/ "Jak poprawić efektywność z techniką Pomodoro?"), ustalając sobie limit 25 minut na rozprawienie się z tym zadaniem.
+
+### Dobre nawyki posługiwania się pocztą elektroniczną
+
+Opisane powyżej etapy przetwarzania to jedno. Warto je stosować w połączeniu z kilkoma dobrymi nawykami wymienionymi poniżej. **Korzystaj z jednej skrzynki pocztowej.** Dzięki temu łatwiej będzie Ci podejść metodycznie do obsługi poczty elektronicznej. Jeśli masz kilka skrzynek pocztowych, skorzystaj z opcji przekierowania wiadomości na wskazany adres. Jeśli zaś chcesz (lub musisz) mieć kilka oddzielnych skrzynek pocztowych (np. służbowa i prywatna), możesz z powodzeniem stosować opisaną wcześniej metodę - z początku trzeba będzie w to włożyć trochę więcej wysiłku, ale powinno się opłacić. **Nie przechowuj wiadomości, których nie potrzebujesz.** Podczas mojego ostatniego porządkowania usunąłem blisko 2400 wiadomości, pozostawiając tylko te, które uznałem za potrzebne lub wartościowe (np. zawierają informacje, do których co jakiś czas wracam itd.). **Osadzaj wiadomości w danym kontekście.** Idealnie do tego nadają się etykiety, dostępne m.in. w usłudze GMail. Sam używam ich do grupowania wiadomości wg określonych projektów, kategorii czy kontekstu. Dla przykładu: etykietą @TODO oznaczam wszystkie te wiadomości, które zostały zakwalifikowane do przetworzenia. **Wyłącz wszelkiego rodzaju powiadomienia.** Jeśli pracujesz przy komputerze, wyskakujące co jakiś czas powiadomienia są największym wrogiem Twojej efektywności. Świadomość, że otrzymaliśmy nową wiadomość podsyca nas do tego, aby ciągle spoglądać do klienta pocztowego. Pozbądźmy się tego nawyku - zachowanie reaktywne w tym przypadku nie jest czymś przez nas pożądanym. **Wykorzystuj możliwość dodawania zadań za pomocą e-maila.** Jeśli np. używasz [Wunderlist](https://www.wunderlist.com/) jako Twojej listy TODO, wystarczy że [przekażesz wiadomość](https://support.wunderlist.com/customer/portal/articles/59709) na adres me@wunderlist.com, a w Twojej skrzynce odbiorczej pojawi się zadanie zdefiniowane na podstawie przesłanej wiadomości. Podobną funkcjonalność znajdziesz w [Trello](https://trello.com/) \- w menu wybranego boarda jest opcja "Email-to-board Settings", a tam znajdziesz unikalny adres e-mail, który służy do automatycznego dodawania zadań za pomocą poczty elektronicznej. Warto zatem sprawdzić, czy narzędzie z którego codziennie korzystasz nie oferuje podobnych funkcjonalności. **Odkryj moc skrótów klawiszowych.** Wejście na wyższy poziom e-mailowej efektywności wymaga od nas płynnego posługiwania się naszym klientem pocztowym. Najczęściej wykonywane czynności mają przypisane odpowiednie skróty klawiszowe, dzięki którym wykonasz je szybciej i prościej. A zaoszczędzony w ten sposób czas będziesz mógł wykorzystać na coś bardziej twórczego :) Listę skrótów klawiszowych dla GMaila znajdziesz [tutaj](https://support.google.com/mail/answer/6594?hl=pl).   Dziś odkryliśmy jedynie wierzchołek góry lodowej. Mam nadzieję, że znalazłeś coś użytecznego dla siebie w tym wpisie. A może znasz inne skuteczne sposoby zarządzania pocztą elektroniczną? Napisz proszę, chętnie przekonamy się o ich skuteczności w praktyce! (photo credits: [link](http://www.flickr.com/photos/opacity/4483056782/in/photolist-7Q9QAs-sHg6V-5csrbY-2QfXu-nmEy-2DVkp-am1eKM-49oRcR-56i5Ea-76yuwU-9pzm49-9mSznc-4yYcYB-68GRt2-aom1oW-2qdk7-BCGY5-zQA5e-4wwYRV-3CHBbs-7HgGe-bYHzH-6GuqhA-sHdVS-4wvWkT-7Q4fjg-cbVxMo-5BLW6G-nwJ3-avdJ-5kGSc2-6deKEp-H7tz-dkwPS-fPkGh-5cPgWx-dhCeR-rXio4-4wtSv-5NKqhS-AR6qr-8medQJ-9y1ra-3r1Gg-3r1DV-zQCgd-kwWUo-nsii1-4pppbY-78fE9P))
